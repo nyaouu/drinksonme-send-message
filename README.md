@@ -22,4 +22,4 @@ set up in config.yml
 py main.py
 ```
 
-### created by nyaouu#0001
+### created by [nyaouu#0001]('https://discord.com/users/1002080893852188694')
