@@ -19,3 +19,4 @@ pip install -r requirements.txt
 ```
 py main.py
 ```
+## noob ui sry
