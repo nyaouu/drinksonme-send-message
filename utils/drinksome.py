@@ -7,7 +7,6 @@ class Drinksome():
         self.userAgent = userAgent
 
     def sendMessage(self, counterId: str, basicId: str, message: str, proxy: str):
-        # while True:
         try:
             response = self.session.post(
                 url = f'https://drinksonme.live/api/counters/{counterId}/messages',
