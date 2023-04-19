@@ -21,4 +21,4 @@ pip install -r requirements.txt
 py main.py
 ```
 
-### Credit nyaouu#0001
+### created by nyaouu#0001
