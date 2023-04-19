@@ -22,4 +22,4 @@ set up in config.yml
 py main.py
 ```
 
-* ✉️  You can contact me at [nyaouu#0001](https://discord.com/users/1002080893852188694)
+* 💻  you can contact me and created by [nyaouu#0001](https://discord.com/users/1002080893852188694)
