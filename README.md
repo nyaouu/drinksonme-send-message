@@ -16,6 +16,7 @@ set up in config.yml
 - message
 - threadAmount
 ```
+and aad proxy in file proxies.txt
 
 # how to use ??
 ```
