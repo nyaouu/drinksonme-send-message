@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ```
 
 # Setup 🔅
+set up in config.yml
 ```
 - counterId
 - basicId
