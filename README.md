@@ -19,4 +19,5 @@ pip install -r requirements.txt
 ```
 py main.py
 ```
-## noob ui sry
+### noob ui sry
+### Credit nyaouu#0001
